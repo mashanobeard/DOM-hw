@@ -1,0 +1,29 @@
+.container {
+    width: 75%;
+    margin: 0 auto;
+}
+button{
+    width: 300px;
+}
+input {
+    width: 300px;
+}
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+.mouseout {
+    height: 300px;
+    width: 300px;
+    border: 1px solid red; 
+}
+img {
+    width: 300px;
+}
+#chg{
+    width: 50px;
+}
